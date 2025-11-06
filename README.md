@@ -23,4 +23,6 @@ Open http://127.0.0.1:5000
 ## Notes
 - For production, set `TM_SECRET_KEY` env var to a secure value.
 - Be careful exposing raw file download endpoints in public deployments.
+
 - This is a demo app; not intended for production use.
+- ![Task Manager GUI](screenshot.png)
