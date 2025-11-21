@@ -25,5 +25,7 @@ Open http://127.0.0.1:5000
 - Be careful exposing raw file download endpoints in public deployments.
 
 - This is a demo app; not intended for production use.
-- ![Task Manager GUI](task_manager_gui.png)
+- ![Task Manager GUI](<img width="1356" height="691" alt="task_manager_gui" src="https://github.com/user-attachments/assets/d61802bc-ecb3-4370-b38c-37bea0a9a1dd" />
+)
+
 
